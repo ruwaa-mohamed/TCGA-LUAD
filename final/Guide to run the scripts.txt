@@ -1,0 +1,10 @@
+Dataset: RNA
+sample sheet: RNA.tsv
+
+1- Feature selection:
+you should run the scripts of "feature selection_deseq2.R" parallel to "decision tree.ipynb"
+2- Prepare data:
+you should run the script of "prepare_data_to_get_labels.R"
+3- Models:
+SVC & Random forest: Ruwaa+Nour scripts
+LDA: "Mariam script.R"
